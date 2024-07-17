@@ -1,6 +1,7 @@
 # 기하 미로 탐색 알고리즘 심화 탐구
 
 ### DFS(Depth First Search, 깊이 우선 탐색), BFS(Breadth First Search, 너비 우선 탐색)
+이전에 다루었으므로 생략
 
 ### 다익스트라 알고리즘(Dijkstra Algorithm)
   개념:
